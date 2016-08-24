@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>121</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly>
+      <Watch>
+        <Format>
+          <struct_types><Fmt><Key>ADDR_INFO-Short</Key><Value>4</Value></Fmt><Fmt><Key>DATA_FRM-DstPANId</Key><Value>4</Value></Fmt><Fmt><Key>DATA_FRM-msduLength</Key><Value>3</Value></Fmt><Fmt><Key>SENSORDATA_T-HMC_INT_X</Key><Value>4</Value></Fmt><Fmt><Key>SENSORDATA_T-HMC_INT_Y</Key><Value>4</Value></Fmt><Fmt><Key>SENSORDATA_T-HMC_INT_Z</Key><Value>4</Value></Fmt><Fmt><Key>SENSORDATA_T-L3G_X</Key><Value>4</Value></Fmt><Fmt><Key>SENSORDATA_T-L3G_Y</Key><Value>4</Value></Fmt><Fmt><Key>SENSORDATA_T-L3G_Z</Key><Value>4</Value></Fmt></struct_types>
+          <watch_formats><Fmt><Key>{W}Watch-0:Length</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:MY_ID</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:P1IN</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P3DIR</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:P3IN</Key><Value>1</Value></Fmt><Fmt><Key>{W}Watch-0:SrcAddr</Key><Value>4</Value></Fmt><Fmt><Key>{W}Watch-0:T_X</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:T_Y</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:T_Z</Key><Value>3</Value></Fmt><Fmt><Key>{W}Watch-0:x</Key><Value>3</Value></Fmt></watch_formats>
+        </Format>
+        
+        
+        
+        
+      <PreferedWindows><Position>2</Position><ScreenPosX>0</ScreenPosX><ScreenPosY>0</ScreenPosY><Windows/></PreferedWindows><Column0>109</Column0><Column1>163</Column1><Column2>100</Column2><Column3>100</Column3></Watch>
+    <Find-in-Files><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files></Static>
+    <Windows>
+      
+      
+      
+      
+    <Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4897-12453</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          
+        <Tab><Identity>TabID-3449-12155</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-13565-38</Identity><TabName>Breakpoints</TabName><Factory>Breakpoints</Factory></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-15646-12457</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>HaSenWork</ExpandedNode><ExpandedNode>HaSenWork/HMC5883L</ExpandedNode><ExpandedNode>HaSenWork/Header</ExpandedNode><ExpandedNode>HaSenWork/L3G4200D</ExpandedNode><ExpandedNode>HaSenWork/i2c</ExpandedNode><ExpandedNode>HaSenWork/main</ExpandedNode><ExpandedNode>HaSenWork/uz2400</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3><Wnd5><Tabs><Tab>
+            <Identity>TabID-4375-12463</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab></Tabs><SelectedTab>0</SelectedTab></Wnd5><Wnd8><Tabs><Tab><Identity>TabID-18845-12486</Identity><TabName>Disassembly</TabName><Factory>Disassembly</Factory><Session/></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd8><Wnd9><Tabs><Tab><Identity>TabID-16442-31958</Identity><TabName>Watch</TabName><Factory>Watch</Factory><Session><Expressions><Expression><Expression>x</Expression></Expression><Expression><Expression>y</Expression></Expression><Expression><Expression>z</Expression></Expression><Expression><Expression>TextAng</Expression></Expression><Expression><Expression>zSensorInfo</Expression></Expression><Expression><Expression>value</Expression></Expression><Expression><Expression>BatValue</Expression></Expression></Expressions><TabId>1</TabId><Column0>109</Column0><Column1>163</Column1><Column2>100</Column2><Column3>100</Column3></Session></Tab></Tabs><SelectedTab>0</SelectedTab></Wnd9></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\L3G4200D\L3G4200D.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>365</SelStart><SelEnd>365</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\ADXL345\ADXL345.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>148</SelStart><SelEnd>148</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Uz2400\uz2400Header.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>647</SelStart><SelEnd>647</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Enroll\Enroll.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>261</SelStart><SelEnd>269</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\data.h</Filename><XPos>0</XPos><YPos>91</YPos><SelStart>2115</SelStart><SelEnd>2115</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\IO.h</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>569</SelStart><SelEnd>569</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\ADXL345\ADXL345.c</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>2044</SelStart><SelEnd>2044</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\HMC5883L\HMC5883L.c</Filename><XPos>4</XPos><YPos>62</YPos><SelStart>1774</SelStart><SelEnd>1774</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\type.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Flash\Flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\i2c\i2c.c</Filename><XPos>0</XPos><YPos>108</YPos><SelStart>3085</SelStart><SelEnd>3085</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\Uer.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>320</SelStart><SelEnd>320</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Uz2400\uz2400.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\SPI\SPI.c</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>3974</SelStart><SelEnd>3974</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\HMC5883L\HMC5883L.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>120</SelStart><SelEnd>120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\RFID.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>322</SelStart><SelEnd>322</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\L3G4200D\L3G4200D.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>902</SelStart><SelEnd>902</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3 Evaluation\430\INC\in430.h</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>2725</SelStart><SelEnd>2725</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Uz2400\uz2400.c</Filename><XPos>0</XPos><YPos>459</YPos><SelStart>12002</SelStart><SelEnd>12002</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\scr\main.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>3288</SelStart><SelEnd>3288</SelEnd></Tab><ActiveTab>19</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\i2c\i2c.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>69</SelStart><SelEnd>69</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01bbfc80><key>iaridepm.enu1</key></Toolbar-01bbfc80></Sizes></Row0><Row1><Sizes><Toolbar-05498a98><key>debuggergui.enu1</key></Toolbar-05498a98></Sizes></Row1><Row2><Sizes><Toolbar-03a5bb10><key>430fet1</key></Toolbar-03a5bb10></Sizes></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11></Top><Left><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>302</Bottom><Right>212</Right><x>-2</x><y>-2</y><xscreen>141</xscreen><yscreen>115</yscreen><sizeHorzCX>103221</sizeHorzCX><sizeHorzCY>164756</sizeHorzCY><sizeVertCX>156662</sizeVertCX><sizeVertCY>435530</sizeVertCY></Rect></Wnd3></Sizes></Row0></Left><Right><Row0><Sizes><Wnd8><Rect><Top>-2</Top><Left>-2</Left><Bottom>302</Bottom><Right>139</Right><x>-2</x><y>-2</y><xscreen>141</xscreen><yscreen>115</yscreen><sizeHorzCX>103221</sizeHorzCX><sizeHorzCY>164756</sizeHorzCY><sizeVertCX>103221</sizeVertCX><sizeVertCY>435530</sizeVertCY></Rect></Wnd8></Sizes></Row0><Row1><Sizes><Wnd9><Rect><Top>-2</Top><Left>137</Left><Bottom>302</Bottom><Right>327</Right><x>137</x><y>-2</y><xscreen>190</xscreen><yscreen>168</yscreen><sizeHorzCX>139092</sizeHorzCX><sizeHorzCY>240688</sizeHorzCY><sizeVertCX>139092</sizeVertCX><sizeVertCY>435530</sizeVertCY></Rect></Wnd9></Sizes></Row1></Right><Bottom><Row0><Sizes><Wnd5><Rect><Top>-2</Top><Left>-2</Left><Bottom>303</Bottom><Right>627</Right><x>-2</x><y>-2</y><xscreen>629</xscreen><yscreen>305</yscreen><sizeHorzCX>460469</sizeHorzCX><sizeHorzCY>436963</sizeHorzCY><sizeVertCX>103221</sizeVertCX><sizeVertCY>164756</sizeVertCY></Rect></Wnd5><Wnd1><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>88387864</Right><x>625</x><y>-2</y><xscreen>743</xscreen><yscreen>305</yscreen><sizeHorzCX>543924</sizeHorzCX><sizeHorzCY>436963</sizeHorzCY><sizeVertCX>103221</sizeVertCX><sizeVertCY>164756</sizeVertCY></Rect></Wnd1></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

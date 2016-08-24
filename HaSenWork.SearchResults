@@ -1,0 +1,4 @@
+---- HmAng Matches (3 in 2 files) ----
+Data.h (header):	int HmAng;
+Main.c (scr):	    read_hmc5883l(&zSensorInfo.HMC_INT_X,&zSensorInfo.HMC_INT_Y,&zSensorInfo.HMC_INT_Z,&zSensorInfo.HmAng);
+Main.c (scr):        zSensorInfo.HmAng= atan2(zSensorInfo.HMC_INT_X,zSensorInfo.HMC_INT_Y)* (180 / 3.14159265) +180;

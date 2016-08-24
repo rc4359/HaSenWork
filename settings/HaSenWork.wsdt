@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>HaSenWork/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>181</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>980</ColumnWidth1><ColumnWidth2>261</ColumnWidth2><ColumnWidth3>65</ColumnWidth3></Build>
+    <TerminalIO/><Find-in-Files><ColumnWidth0>470</ColumnWidth0><ColumnWidth1>67</ColumnWidth1><ColumnWidth2>806</ColumnWidth2></Find-in-Files><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1307</ColumnWidth1></Debug-Log><Disassembly><MixedMode>1</MixedMode><CodeCovShow>0</CodeCovShow></Disassembly></Static>
+    <Windows>
+      
+      
+    <Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-4393-31721</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>HaSenWork</ExpandedNode><ExpandedNode>HaSenWork/ADXL345</ExpandedNode><ExpandedNode>HaSenWork/Eroll</ExpandedNode><ExpandedNode>HaSenWork/HMC5883L</ExpandedNode><ExpandedNode>HaSenWork/Header</ExpandedNode><ExpandedNode>HaSenWork/L3G4200D</ExpandedNode><ExpandedNode>HaSenWork/i2c</ExpandedNode><ExpandedNode>HaSenWork/main</ExpandedNode><ExpandedNode>HaSenWork/pir</ExpandedNode><ExpandedNode>HaSenWork/spi</ExpandedNode><ExpandedNode>HaSenWork/uz2400</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-13176-32580</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-7735-15717</Identity><TabName>Find in Files</TabName><Factory>Find-in-Files</Factory><Session/></Tab><Tab><Identity>TabID-18591-7645</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd3></Windows>
+    <Editor>
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\L3G4200D\L3G4200D.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>365</SelStart><SelEnd>365</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\ADXL345\ADXL345.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>148</SelStart><SelEnd>148</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Uz2400\uz2400Header.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>647</SelStart><SelEnd>647</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Enroll\Enroll.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>261</SelStart><SelEnd>269</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\data.h</Filename><XPos>0</XPos><YPos>91</YPos><SelStart>2115</SelStart><SelEnd>2115</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\IO.h</Filename><XPos>0</XPos><YPos>17</YPos><SelStart>569</SelStart><SelEnd>569</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\ADXL345\ADXL345.c</Filename><XPos>0</XPos><YPos>77</YPos><SelStart>2044</SelStart><SelEnd>2044</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\HMC5883L\HMC5883L.c</Filename><XPos>4</XPos><YPos>62</YPos><SelStart>1774</SelStart><SelEnd>1774</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\type.h</Filename><XPos>0</XPos><YPos>39</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Flash\Flash.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\i2c\i2c.c</Filename><XPos>0</XPos><YPos>108</YPos><SelStart>3085</SelStart><SelEnd>3085</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\Uer.h</Filename><XPos>0</XPos><YPos>12</YPos><SelStart>320</SelStart><SelEnd>320</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Uz2400\uz2400.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\SPI\SPI.c</Filename><XPos>0</XPos><YPos>139</YPos><SelStart>3974</SelStart><SelEnd>3974</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\HMC5883L\HMC5883L.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>120</SelStart><SelEnd>120</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Header\RFID.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>322</SelStart><SelEnd>322</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\L3G4200D\L3G4200D.c</Filename><XPos>0</XPos><YPos>30</YPos><SelStart>902</SelStart><SelEnd>902</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\Embedded Workbench 5.3 Evaluation\430\INC\in430.h</Filename><XPos>0</XPos><YPos>74</YPos><SelStart>2725</SelStart><SelEnd>2725</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\Uz2400\uz2400.c</Filename><XPos>0</XPos><YPos>459</YPos><SelStart>12002</SelStart><SelEnd>12002</SelEnd></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\scr\main.c</Filename><XPos>0</XPos><YPos>102</YPos><SelStart>3288</SelStart><SelEnd>3288</SelEnd></Tab><ActiveTab>19</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>C:\Tempwork spacse\HaSenWork\HaSenWork\i2c\i2c.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>69</SelStart><SelEnd>69</SelEnd></Tab></Pane><ActivePane>0</ActivePane><Sizes><Pane><X>1000000</X><Y>1000000</Y></Pane></Sizes><SplitMode>1</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-01bbfc80><key>iaridepm.enu1</key></Toolbar-01bbfc80></Sizes></Row0><Row1><Sizes/></Row1><Row2><Sizes/></Row2><Row3><Sizes/></Row3><Row4><Sizes/></Row4><Row5><Sizes/></Row5><Row6><Sizes/></Row6><Row7><Sizes/></Row7><Row8><Sizes/></Row8><Row9><Sizes/></Row9><Row10><Sizes/></Row10><Row11><Sizes/></Row11><Row12><Sizes/></Row12><Row13><Sizes/></Row13><Row14><Sizes/></Row14></Top><Left><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>681</Bottom><Right>255</Right><x>-2</x><y>-2</y><xscreen>552</xscreen><yscreen>883</yscreen><sizeHorzCX>383333</sizeHorzCX><sizeHorzCY>1063855</sizeHorzCY><sizeVertCX>178472</sizeVertCX><sizeVertCY>822892</sizeVertCY></Rect></Wnd2></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd3><Rect><Top>-2</Top><Left>-2</Left><Bottom>104</Bottom><Right>1442</Right><x>-2</x><y>-2</y><xscreen>1444</xscreen><yscreen>106</yscreen><sizeHorzCX>1002778</sizeHorzCX><sizeHorzCY>127711</sizeHorzCY><sizeVertCX>383333</sizeVertCX><sizeVertCY>1063855</sizeVertCY></Rect></Wnd3></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
